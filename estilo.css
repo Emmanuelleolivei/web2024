@@ -11,8 +11,13 @@
 }
 
 body {
-    background-color: rgb(228, 190, 223);
+    background-color: rgb(142, 75, 197);
     font-family: "Audiowide", sans-serif;
+}
+
+#corpo {
+    text-align: left;
+    color: blueviolet;
 }
 
 h3 {
@@ -36,7 +41,7 @@ p {
 }
 
 a:link {
-    color: blue;
+    color: rgb(84, 212, 216);
     background-color: transparent;
     text-decoration: none;
 }
@@ -48,13 +53,13 @@ a:visited {
 }
 
 a:hover {
-    color: red;
+    color: rgb(255, 0, 191);
     background-color: transparent;
     text-decoration: underline;
 }
 
 a:active {
-    color: yellow;
+    color: rgb(251, 255, 4);
     background-color: transparent;
     text-decoration: underline;
 }
